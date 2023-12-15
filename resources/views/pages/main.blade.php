@@ -26,6 +26,6 @@
             <li><a href="{{route ('main') }}">Main</a></li>
             <li><a href="{{route ('home') }}">Home</a></li>
         </ul>
-        <h1>{{ $hello. ' '. $name }}</h1>
+            <h1>{{ $hello. ' '. $name }}</h1>
     </body>
 </html>
